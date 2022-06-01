@@ -1,0 +1,91 @@
+Estas mareado, la cabeza te retumba como si fuera un tambor que alguien esta tocando al ritmo.
+A lo lejos,oyes los vitores de una multitud. Te sientas en la cama, intentas aclarar tu mente...dormiste pesimo.
+Te das cuenta que llevas puesto la mitad inferior de tu uniforme, tus botas tienen barro.
+Observas el resto de la habitacion y ves que tu uniforme esta desperdigado por el cuarto.
+Te incorporas, todavia no tienes claro que paso anoche. Caminas hasta los pies de tu cama,
+tomas tu gladius y al desenvainarla notas algo familiar... Un...un color carmin tiñe tu hoja casi hasta la empuñadura.
+
+-¡¿Que carajos...?! - Exclamas confunso mientras la miras detenidamente.
+
+El sol esta muy alto en el cielo, tendrias que haberte presentado hace horas, sabes que esto te va
+a costar una buena reprimenda.
+Limpias la hoja de tu espada, el resto de tu uniforme y te alistas rapidamente.
+
+Sales de tu cuarto, y comienzas a caminar a paso ligero entre la muchedumbre. No sabes que ha pasado para que
+haya tanta gente reunida, no era un dia festivo...
+
+Te cruzas con un Mercader, te saluda haciendo un ademan con la mano:
+
+1. Le preguntas que ha sucedido. (Aunque deberias saberlo, eres una figura de autoridad)
+2. Lo saludas y sigues.  (Despues de todo, ya vas con retraso)
+----------------------------------------------------------------------------------------------------------------------------
+Si 1:
+Mercader -¡Ave Centurion!...-
+
+Tu *Levantas la mano izquierda en señal de saludo*
+-¿Por que tanto gentio Decio?- le preguntas sin rodeos
+-¿Murio alguien o que?! - añades con sorna
+
+Mercader -¿Acaso me preguntas de veras?¿Tu vives aqui o vienes de una isla?- respondio con expresion atonita
+
+Tu rostro cambio abruptamente su expresion - Vamos Decio,¿Que ha pasado? Dime...-
+
+El Mercader en realidad no podia creer que le estuvieras preguntando,pero con un dejo de duda, se acerco a ti lo suficiente
+como para que nadie mas pudiera oir lo que era de publico conocimiento.
+
+Mercader -Es que, Centurion, anoche han dado muerte a los dos escoltas apostados fuera del cuarto del Emperador,
+y a este le han apuñalado, no creen que sobreviva, a lo mucho pasa la noche...-
+
+Tratas de mantener una expresion calmada, fria, pero respondes con sequedad.
+Tu - Claro, gracias Decio, disculpame pero voy tarde, que sigas bien.-
+
+Mercader -Claro...¡Suerte, Centurion!-
+------------------------------------------------------------------------------------------------------------------------------
+Si 2:
+*Levantas la mano izquierda en señal de saludo*
+Tu -¡Voy con prisa Decio,luego!
+
+Mercader -Claro...¡Suerte, Centurion!-
+
+------------------------------------------------------------------------------------------------------------------------------
+En tu mente todavia turbulenta intentas vislumbrar tus ultimas horas de ayer, pero el ultimo recuerdo que te viene claro a la
+mente es estar sentado, bebiendo en la taberna y... ¡Narciso!, tu ultimo recuerdo es la cara de esa rata inmunda, serpiente imperial...
+Haces un esfuerzo por recordar mas, pero no puedes, todo esta borroso despues de eso.
+¿Porque tu ultimo recuerdo era ese miserable liberto arrastrado?, no lo sabes con certeza, pero te inquieta...
+Y ahora resuena en tu mente cada vez con mas fuerza <¡Suerte, Centurion!>... Ja, ¿¡suerte!?...*meneas la cabeza* quizas no estaria de
+mas tener algo de suerte...
+
+La legion a la que perteneces estaba acampando extramuros, pero cuando estas llegando al foro, comienzas a ver a legionarios que estaban
+formando una linea de contencion para que la gente no se agolpe y quiera acceder a las cercanias del palacio imperial.
+Obviamente no conoces a todos los soldados de la legion, pero en sus escudos puedes leer "XIII.GEMINA", vas con prisa... y preocupacion.
+-----------------------------------------------------------------------------------------------------------------------------
+Ves a tu centuria formada, tu Optio esta al mando momentaneamente...
+
+A- Te acercas a tu unidad (pretendes tomar el mando, normal, como si nada hubiera sucedido)
+B- Te acercas a hablar con tu Optio (a ver de que van las cosas)
+C- Te dirijes a hablar con tu Prefecto (para dar las debidas explicaciones de porque has llegado tarde)
+-------------------------------------------------------------------------------------------------------------------------------
+Si 1:
+A: Tu -¡Optio!- Exclamas a voz en cuello.
+Optio - Se...Señor!?- Y se cuadra, confundido, pero obediente - Disculpe señor, que hace aqui?-
+Tu - Que que hago aqui? Me hago cargo de mi centuria muchacho, que mas voy a estar haciendo? Y, si me preguntas porque deberia estar
+con el Prefecto en la ceremonia, pues veras que no es asunto tuyo.-*te volteas a ver la muchedumbre*
+Optio - Señor, disculpeme señor, pero tengo ordenes claras del Prefecto de detenerlo y dar aviso que esta bajo custodia, le pido que no se resista...-
+El ambiente era tan tenso que podriar haberlo cortado con el filo de tu navaja, el nerviosismo reinaba entre los soldados, que se miraban unos a otros, debatiendose entre el deber y la lealtad hacia su Centurion.
+ -¡¿Que?! Todo por no haberme presentado a tiempo? Me parece una medida desproporcionada...
+ Optio - Señor, lo siento, pero son ordenes, y creo que no es por haber llegado tarde el dia de hoy- *se voltea hacia los soldados*
+ -Soldados, acompañen al Centurion a la tienda, retengale su espada, y monten guardia en la puerta... Vamos! Muevanse! YA!-
+
+--------------------------------------------------------------------------------------------------------------------------------
+Si 2:
+Te vas acercando a tu centuria a paso ligero, tu Optio te ve, y hace un ademan con su mano por lo bajo, discretamente te dice que te detengas...
+Aminoras el paso, no sabes bien por que, pero el dia ya viene siendo una menuda mierda, asique le haces caso y te detienes unos pasos mas adelante.
+Ves que se voltea y cruza unas palabras con el portaestandarte, lo deja al mando y se acerca a paso ligero, casi al trote, se lo ve nervioso, mirando hacia todos lados,
+como buscando algo...
+
+Optio- Señor- dice en voz baja, agitado, y se cuadra.
+Esta bien, los modales hacen al hombre, piensas... - Decimo- *le extiendes el brazo y estrechas su mano*- que pasa? porque hiciste que me detuviera aqui?
+*se acerca complice*- Señor, tiene que saber que el Prefecto y un asistente del Emperador estuvieron preguntando por usted...-*suspiro, lo que hizo que se genere una pausa eterna * 
+-Y tengo ordenes claras del Prefecto de detenerlo y dar aviso que esta bajo custodia...-
+-¡¿Que?! Este dia no hace mas que empeorar ¿pero,porque?-
+Optio- Señor, se rumora que quizas usted tenga algo que ver con el atentado al Emperador,

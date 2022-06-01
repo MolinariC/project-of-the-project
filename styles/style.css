@@ -1,0 +1,36 @@
+html {
+    font-size: 12px;
+    font-family: 'Macondo', cursive;
+    background-color:#EDEAD3;
+}
+body {
+    height: 250px;
+    /*background-image: url("https://www.unionpuebla.mx/sites/default/files/styles/galeria/public/field/image/apogeo-imperio-romano-sexto_1.jpg?itok=KxEHczGT");
+    background-repeat:no-repeat;
+    background-position: center right;*/
+  }
+p {
+    color:black;
+    width: 550px;
+    border: 2px solid black;
+}
+
+
+  /*text-align: center;----> se utiliza para determinar el lugar donde se colocara el texto*/
+  /*font-size: 20px; ----> tamaño de la fuente*/
+  /*line-height: 2;----> altura de la linea*/
+  /*letter-spacing: 1px; -----> espaciado entre letras*/
+  /*img[src]---> en teoria serviria para llamar una imagen de x lugar, no se como ni de donde todavia*/
+  /*padding: (relleno), el espacio alrededor del contenido.ej es el espacio alrededor del texto del párrafo.*/
+  /*border: (marco), la línea que se encuentra fuera del relleno.*/
+  /*margin: (margen), el espacio fuera del elemento que lo separa de los demás.*/
+  /*width: (ancho del elemento)*/
+  /*background-color:, el color de fondo del contenido y del relleno*/
+  /*color:, el color del contenido del elemento (generalmente texto)*/
+  /*text-shadow: coloca una sombra difuminada en el texto dentro del elemento*/
+  /*display: selecciona el modo de visualización para el elemento*/
+
+  /*https://qph.fs.quoracdn.net/main-qimg-6f079204fea9230920bbb47ef8ea58b4-lq  legionario
+
+  #EDEAD3
+  font-family: 'Dosis', sans-serif;*/
